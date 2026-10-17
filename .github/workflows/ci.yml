@@ -48,6 +48,7 @@ jobs:
         run: |
           python3 scripts/make-pi-themes.py
           python3 scripts/make-opencode-theme.py
+          python3 scripts/make-neon-pink-themes.py
 
       - name: Ensure generated themes are committed
         run: |

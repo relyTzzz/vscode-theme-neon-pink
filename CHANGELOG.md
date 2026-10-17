@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- **Neon Pink — Dark Terminal** and **Neon Pink — Liquid Glass** themes: the Neon Green dark themes with every green turned hot pink (`#39ff14` → `#ff2eba`), keeping the backgrounds and every other colour, bringing the collection to fifteen themes in nine families
+- Added `scripts/make-neon-pink-themes.py` generator: finds every green hue in a base theme, rotates it into the pink band through the shared `hex_remap` engine, and fails on any green left in the output; CI regenerates it with the other palette-driven themes
+
 ## v1.7.0 — 2026-09-20
 
 ### Features

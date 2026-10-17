@@ -1,7 +1,7 @@
 {
   "name": "neon-green-theme",
   "displayName": "Neon Green Theme Collection",
-  "description": "13 VS Code themes in 8 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (gold-on-midnight), Aura (purple haze), Omarchy (neon green on slate), Synthwave '84 (retro neon), and Zed (Dark, Light). Vivid neon accents, warm eye-friendly pastels, minimal flat-black canvas, and warm gold-on-navy.",
+  "description": "15 VS Code themes in 9 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Neon Pink (Dark Terminal, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (gold-on-midnight), Aura (purple haze), Omarchy (neon green on slate), Synthwave '84 (retro neon), and Zed (Dark, Light). Vivid neon accents, warm eye-friendly pastels, minimal flat-black canvas, and warm gold-on-navy.",
   "version": "1.7.0",
   "publisher": "luongnv89",
   "author": {
@@ -22,6 +22,7 @@
     "light",
     "neon",
     "green",
+    "pink",
     "terminal",
     "soft",
     "glow",
@@ -78,6 +79,16 @@
         "label": "Neon Green \u2014 Liquid Glass",
         "uiTheme": "vs-dark",
         "path": "./themes/neon-green-liquid-glass-color-theme.json"
+      },
+      {
+        "label": "Neon Pink \u2014 Dark Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-pink-color-theme.json"
+      },
+      {
+        "label": "Neon Pink \u2014 Liquid Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-pink-liquid-glass-color-theme.json"
       },
       {
         "label": "Soft Glow \u2014 Dark",

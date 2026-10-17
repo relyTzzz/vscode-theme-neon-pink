@@ -6,8 +6,8 @@ coordination rules live in [AGENTS.md](AGENTS.md).
 
 ## Project
 
-Neon Green Theme Collection — a VS Code theme extension shipping 13 JSON color
-themes in 8 families (Neon Green, Soft Glow, OpenCode, Hermes Agent, Aura,
+Neon Green Theme Collection — a VS Code theme extension shipping 15 JSON color
+themes in 9 families (Neon Green, Neon Pink, Soft Glow, OpenCode, Hermes Agent, Aura,
 Omarchy, Synthwave '84, Zed) plus matching ports for iTerm2, Warp, Ghostty,
 macOS Terminal, cmux, Claude Code, and Firefox.
 
@@ -24,8 +24,9 @@ Recorded commands an agent can run from a fresh checkout:
   theme-JSON schema vs `contributes.themes`, plus Python generator remap/walk
   characterization; emits a coverage table). The generator tests need `python3`
   on PATH and are skipped when it is absent
-- `python3 scripts/make-pi-themes.py`, `python3 scripts/make-opencode-theme.py`
-  — palette-driven theme generators (require Python 3)
+- `python3 scripts/make-pi-themes.py`, `python3 scripts/make-opencode-theme.py`,
+  `python3 scripts/make-neon-pink-themes.py` — palette-driven theme generators
+  (require Python 3)
 - `vsce package` — build the `.vsix` artifact (needs `@vscode/vsce`, optional)
 
 ## Repository layout

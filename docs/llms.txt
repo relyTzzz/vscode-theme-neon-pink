@@ -1,6 +1,6 @@
 # Neon Green Theme Collection
 
-> 13 VS Code themes in 8 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (Dark), Aura (Dark), Omarchy (Dark), Synthwave '84 (Dark), and Zed (Dark, Light). Vivid neon accents, warm eye-friendly pastels, and a minimal flat-black canvas for long coding sessions. Free and open source under MIT.
+> 15 VS Code themes in 9 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Neon Pink (Dark Terminal, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (Dark), Aura (Dark), Omarchy (Dark), Synthwave '84 (Dark), and Zed (Dark, Light). Vivid neon accents, warm eye-friendly pastels, and a minimal flat-black canvas for long coding sessions. Free and open source under MIT.
 
 ## Main
 
@@ -15,6 +15,10 @@
 - Midnight: Softer blue-black base for a calmer late-night editor
 - Light: Clean daytime version with soft mint-green background and neon accents (#f0faf0 background, #0d9e00 accent)
 - Liquid Glass: Modern translucent feel with glass-like editor surfaces
+
+### Neon Pink
+- Dark Terminal: The Neon Green Dark Terminal palette with every green turned hot pink (#0e0e1a background, #ff2eba accent)
+- Liquid Glass: Liquid Glass surfaces lit in neon pink instead of green
 
 ### Soft Glow
 - Dark: Warm charcoal background (#12100e) with amber accents and desaturated syntax colors — designed for long sessions in any lighting

@@ -10,7 +10,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=luongnv89.neon-green-theme"><img src="https://img.shields.io/badge/Marketplace-Theme%20Collection-brightgreen.svg" alt="Marketplace"></a>
 </p>
 
-<p align="center">13 meticulously crafted VS Code themes in 8 families: vivid <strong>Neon Green</strong> with electric accents, warm <strong>Soft Glow</strong> with eye-friendly pastels, minimal <strong>OpenCode</strong> with a flat-black canvas, golden <strong>Hermes Agent</strong>, purple-hazed <strong>Aura</strong>, slate <strong>Omarchy</strong>, retro <strong>Synthwave '84</strong>, and clean <strong>Zed</strong>.</p>
+<p align="center">15 meticulously crafted VS Code themes in 9 families: vivid <strong>Neon Green</strong> with electric accents, its hot-pink twin <strong>Neon Pink</strong>, warm <strong>Soft Glow</strong> with eye-friendly pastels, minimal <strong>OpenCode</strong> with a flat-black canvas, golden <strong>Hermes Agent</strong>, purple-hazed <strong>Aura</strong>, slate <strong>Omarchy</strong>, retro <strong>Synthwave '84</strong>, and clean <strong>Zed</strong>.</p>
 
 ## Screenshots
 
@@ -32,6 +32,15 @@
 | **Midnight** | Deep blue-black (`#0b1014`) | Softer, midnight coding |
 | **Light** | Clean light background | Daytime-friendly neon green |
 | **Liquid Glass** | Dark with glass effects | Modern translucent feel |
+
+### Neon Pink Family
+
+The Neon Green dark themes with every green turned pink: the same backgrounds, blues, purples and reds, with a hot-pink accent (`#ff2eba` where the green was `#39ff14`). Generated from the Neon Green themes by `scripts/make-neon-pink-themes.py`.
+
+| Variant | Base | Vibe |
+|---------|------|------|
+| **Dark Terminal** | Deep blue-black (`#0e0e1a`) | Classic hacker terminal, in pink |
+| **Liquid Glass** | Dark with glass effects | Modern translucent feel, in pink |
 
 ### Soft Glow Family
 
@@ -79,8 +88,8 @@
 
 ## Key Features
 
-- **Eight distinct aesthetics**: vivid neon green accents (Neon Green), warm amber/pastel tones (Soft Glow), minimal flat-black OpenCode (warm peach + purple), gold-on-navy Hermes Agent, purple-hazed Aura, slate-green Omarchy, retro Synthwave '84, and clean neutral Zed
-- 13 themes across 8 families for different moods and lighting conditions
+- **Nine distinct aesthetics**: vivid neon green accents (Neon Green), the same palette in hot pink (Neon Pink), warm amber/pastel tones (Soft Glow), minimal flat-black OpenCode (warm peach + purple), gold-on-navy Hermes Agent, purple-hazed Aura, slate-green Omarchy, retro Synthwave '84, and clean neutral Zed
+- 15 themes across 9 families for different moods and lighting conditions
 - Carefully tuned multicolor syntax for long coding sessions
 - Broad language support: JavaScript, TypeScript, Python, Rust, Go, HTML/CSS, JSON, YAML, Markdown, Shell, and more
 - Custom terminal colors, bracket colorization, and git decoration colors
@@ -406,6 +415,8 @@ vscode-theme-neon-green/
 │   ├── neon-green-midnight-color-theme.json  # Midnight variant
 │   ├── neon-green-light-color-theme.json     # Light variant
 │   ├── neon-green-liquid-glass-color-theme.json  # Liquid Glass variant
+│   ├── neon-pink-color-theme.json        # Neon Pink Dark Terminal variant
+│   ├── neon-pink-liquid-glass-color-theme.json  # Neon Pink Liquid Glass variant
 │   ├── soft-glow-dark-color-theme.json       # Soft Glow Dark variant
 │   ├── soft-glow-light-color-theme.json      # Soft Glow Light variant
 │   ├── Neon Green Dark.itermcolors       # iTerm2 Dark Terminal profile

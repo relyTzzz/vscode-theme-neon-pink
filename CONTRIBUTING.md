@@ -48,12 +48,14 @@ code .
 
 ### Theme Files
 
-Theme JSON files are located in `themes/` (all 13 are registered in `package.json` under `contributes.themes`):
+Theme JSON files are located in `themes/` (all 15 are registered in `package.json` under `contributes.themes`):
 
 - `neon-green-color-theme.json` — Neon Green — Dark Terminal
 - `neon-green-midnight-color-theme.json` — Neon Green — Midnight
 - `neon-green-light-color-theme.json` — Neon Green — Light
 - `neon-green-liquid-glass-color-theme.json` — Neon Green — Liquid Glass
+- `neon-pink-color-theme.json` — Neon Pink — Dark Terminal
+- `neon-pink-liquid-glass-color-theme.json` — Neon Pink — Liquid Glass
 - `soft-glow-dark-color-theme.json` — Soft Glow — Dark
 - `soft-glow-light-color-theme.json` — Soft Glow — Light
 - `opencode-color-theme.json` — OpenCode — Dark

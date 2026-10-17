@@ -1,6 +1,6 @@
 # Neon Green Theme Collection
 
-13 VS Code themes in 8 families — vivid **Neon Green**, warm **Soft Glow**, minimal **OpenCode**, golden **Hermes Agent**, purple **Aura**, slate **Omarchy**, retro **Synthwave '84**, and clean **Zed** — built for developers who want their editor to feel sharp, comfortable, and unmistakably alive.
+15 VS Code themes in 9 families — vivid **Neon Green**, hot-pink **Neon Pink**, warm **Soft Glow**, minimal **OpenCode**, golden **Hermes Agent**, purple **Aura**, slate **Omarchy**, retro **Synthwave '84**, and clean **Zed** — built for developers who want their editor to feel sharp, comfortable, and unmistakably alive.
 
 > Eight aesthetics, one collection. Neon Green for electric terminal energy. Soft Glow for warm, eye-friendly coding. OpenCode for a minimal flat-black canvas. Hermes Agent for gold-on-navy warmth. Aura for purple haze. Omarchy for slate minimalism. Synthwave '84 for retro neon. Zed for clean neutrality. All tuned for long sessions.
 
@@ -38,7 +38,7 @@ Most themes choose one of two extremes:
 
 ## Screenshots
 
-The flagship Neon Green family ships real editor captures (dark and light). The gallery below covers **all eight families** — each card is rendered from that family's own theme palette.
+The flagship Neon Green family ships real editor captures (dark and light). The gallery below covers **all nine families** — each card is rendered from that family's own theme palette.
 
 ### Dark Terminal
 
@@ -48,7 +48,7 @@ The flagship Neon Green family ships real editor captures (dark and light). The 
 
 ![Neon Green Light Theme screenshot](../screenshot-light.png)
 
-### All eight families
+### All nine families
 
 <!-- FAMILY_GALLERY -->
 

@@ -5,7 +5,7 @@ import { buildStatusCluster } from './nav.mjs';
 import { escapeAttr, escapeHtml, sanitizeUrl, serializeJsonLd } from './sanitize.mjs';
 
 export const buildHtml = ({ pkg, navHtml, contentHtml, css, repoUrl, marketplaceUrl }) => {
-  const seoDescription = '13 VS Code themes in 8 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (Dark), Aura (Dark), Omarchy (Dark), Synthwave \'84 (Dark), and Zed (Dark, Light). Vivid accents, warm pastels, and a minimal flat-black canvas for long coding sessions.';
+  const seoDescription = '15 VS Code themes in 9 families: Neon Green (Dark Terminal, Midnight, Light, Liquid Glass), Neon Pink (Dark Terminal, Liquid Glass), Soft Glow (Dark, Light), OpenCode (Dark), Hermes Agent (Dark), Aura (Dark), Omarchy (Dark), Synthwave \'84 (Dark), and Zed (Dark, Light). Vivid accents, warm pastels, and a minimal flat-black canvas for long coding sessions.';
   const siteUrl = 'https://luongnv89.github.io/vscode-theme-neon-green';
   const ogImage = `${siteUrl}/screenshot-dark.png`;
   const jsonLd = {

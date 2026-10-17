@@ -11,6 +11,8 @@ const VARIANT_DESCRIPTIONS = new Map([
   ['Neon Green — Midnight', 'Softer blue-black base for a calmer late-night editor.'],
   ['Neon Green — Light', 'Clean daytime version with neon accents still doing the heavy lifting.'],
   ['Neon Green — Liquid Glass', 'Modern translucent feel with glass-like editor surfaces.'],
+  ['Neon Pink — Dark Terminal', 'The Dark Terminal palette with every green turned hot pink — same contrast, new glow.'],
+  ['Neon Pink — Liquid Glass', 'Liquid Glass surfaces lit in neon pink instead of green.'],
   ['Soft Glow — Dark', 'Warm, cozy dark theme with amber accents and desaturated syntax.'],
   ['Soft Glow — Light', 'Gentle cream background with muted jewel-tone highlights.'],
   ['OpenCode — Dark', 'Minimal terminal-agent look on a flat near-black canvas — warm peach accent with purple keywords.'],
