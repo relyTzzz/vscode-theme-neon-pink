@@ -159,6 +159,9 @@
     "editorGroupHeader.noTabsBackground": "#0a1018",
 
     "tab.activeBackground": "#39ff1433",
+    "modernEditorTab.activeBackground": "#39ff1433",
+    "modernEditorTab.activeHoverBackground": "#39ff1440",
+    "modernEditorTab.activeForeground": "#4dff4d",
     "tab.activeForeground": "#4dff4d",
     "tab.activeBorderTop": "#39ff14",
     "tab.activeBorder": "#ffffff00",
