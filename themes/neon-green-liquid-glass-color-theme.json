@@ -300,9 +300,10 @@
     "badge.foreground": "#080c12",
 
     "scrollbar.shadow": "#00000040",
-    "scrollbarSlider.background": "#ffffff10",
-    "scrollbarSlider.hoverBackground": "#ffffff1c",
-    "scrollbarSlider.activeBackground": "#39ff1430",
+    "scrollbar.background": "#39ff1424",
+    "scrollbarSlider.background": "#39ff1499",
+    "scrollbarSlider.hoverBackground": "#39ff14cc",
+    "scrollbarSlider.activeBackground": "#39ff14",
 
     "breadcrumb.foreground": "#ffffff40",
     "breadcrumb.focusForeground": "#dce4f0",
